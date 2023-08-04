@@ -19,6 +19,7 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
+  position: scale(3);
 }
 
 .battery-head {
